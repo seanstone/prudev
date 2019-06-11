@@ -4,3 +4,6 @@
 [submodule "pru-gcc-examples"]
 	path = pru-gcc-examples
 	url = https://github.com/dinuxbg/pru-gcc-examples
+[submodule "starterwarefree"]
+	path = starterwarefree
+	url = https://git.code.sf.net/p/starterwarefree/code
