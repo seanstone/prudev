@@ -2,15 +2,15 @@
 
 ## Compiler
 
-1. [clpru](http://www.ti.com/tool/download/PRU-CGT-2-1) - PRU C compiler as part of the TI PRU Code Generation Tools (PRU-CGT)
-2. [gnupru](https://github.com/dinuxbg/gnupru) - GCC port for the PRU
+1. [clpru](http://www.ti.com/tool/download/PRU-CGT-2-1) - PRU C compiler as part of the _TI PRU Code Generation Tools (PRU-CGT)_
+2. [gnupru](https://github.com/dinuxbg/gnupru) - _GCC port for the PRU_
 
 Here, we will use `gnupru`. Follow the instructions there to install.
 
 ## Support packages
 
-* [PRU Software Support Package](https://git.ti.com/pru-software-support-package) (pru-software-support-package): provide remoteproc framework for communication with Linux
-* [Starterware](https://sourceforge.net/p/starterwarefree/code/ci/master/tree/) (starterwarefree): provide non-OS device drivers
+* [PRU Software Support Package](https://git.ti.com/pru-software-support-package): _provide remoteproc framework for communication with Linux_
+* [Starterware](https://sourceforge.net/p/starterwarefree/code/ci/master/tree/): _provide non-OS device drivers_
 
 ## Reference code
 
