@@ -1,5 +1,7 @@
 # PRU Development Resources
 
+_Development for the TI [PRU-ICSS](http://processors.wiki.ti.com/index.php/PRU-ICSS)_
+
 ## Compiler
 
 1. [clpru](http://www.ti.com/tool/download/PRU-CGT-2-1) - PRU C compiler as part of the _TI PRU Code Generation Tools (PRU-CGT)_
