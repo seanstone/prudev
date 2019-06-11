@@ -1,3 +1,6 @@
 [submodule "pru-software-support-package"]
 	path = pru-software-support-package
 	url = git://git.ti.com/pru-software-support-package/pru-software-support-package.git
+[submodule "pru-gcc-examples"]
+	path = pru-gcc-examples
+	url = https://github.com/dinuxbg/pru-gcc-examples
